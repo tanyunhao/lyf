@@ -1,41 +1,55 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.3.1">
   <diagram name="第 1 页" id="z4AlEkQmj7f1P9zvdGhf">
-    <mxGraphModel dx="2032" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1831" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0yKiZ3iZhQsjjdrMqC6V-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=0;align=center;" value="供电模块" vertex="1">
-          <mxGeometry height="60" width="120" x="320" y="460" as="geometry" />
-        </mxCell>
-        <mxCell id="0yKiZ3iZhQsjjdrMqC6V-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=0;align=center;" value="主控模块&lt;div&gt;stm32&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="140" y="460" as="geometry" />
-        </mxCell>
-        <mxCell id="0yKiZ3iZhQsjjdrMqC6V-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=0;align=center;" value="4G评估板" vertex="1">
-          <mxGeometry height="60" width="120" x="320" y="280" as="geometry" />
-        </mxCell>
-        <mxCell id="0yKiZ3iZhQsjjdrMqC6V-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=0;align=center;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;STARF-GGBR7I05 四臂螺旋天线&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="-40" y="280" as="geometry" />
-        </mxCell>
-        <mxCell id="0yKiZ3iZhQsjjdrMqC6V-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=0;align=center;" value="太阳能板" vertex="1">
-          <mxGeometry height="60" width="120" x="520" y="440" as="geometry" />
-        </mxCell>
-        <mxCell id="0yKiZ3iZhQsjjdrMqC6V-14" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="290" width="360" x="120" y="210" as="geometry" />
-        </mxCell>
-        <mxCell id="0yKiZ3iZhQsjjdrMqC6V-5" parent="0yKiZ3iZhQsjjdrMqC6V-14" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=0;align=center;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="200" width="160" y="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0yKiZ3iZhQsjjdrMqC6V-3" parent="0yKiZ3iZhQsjjdrMqC6V-14" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=0;align=center;" value="WTRTK-960&lt;br&gt;定位模组" vertex="1">
-          <mxGeometry height="60" width="120" x="20" y="70" as="geometry" />
-        </mxCell>
-        <mxCell id="0yKiZ3iZhQsjjdrMqC6V-4" parent="0yKiZ3iZhQsjjdrMqC6V-14" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=0;align=center;" value="IMU&lt;div&gt;惯性测量单元&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="20" y="150" as="geometry" />
-        </mxCell>
-        <mxCell id="0yKiZ3iZhQsjjdrMqC6V-12" parent="0yKiZ3iZhQsjjdrMqC6V-14" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=0;align=center;strokeColor=none;fillColor=none;" value="定位模块" vertex="1">
-          <mxGeometry height="30" width="120" x="20" y="30" as="geometry" />
-        </mxCell>
         <mxCell id="0yKiZ3iZhQsjjdrMqC6V-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=0;align=center;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="300" width="540" x="-20" y="700" as="geometry" />
+          <mxGeometry height="350" width="580" x="-90" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bW_yQ9oQXNVkgp_N_Xg0-6" edge="1" parent="1" source="0yKiZ3iZhQsjjdrMqC6V-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;" target="0yKiZ3iZhQsjjdrMqC6V-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0yKiZ3iZhQsjjdrMqC6V-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=0;align=center;fillColor=none;" value="供电模块" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bW_yQ9oQXNVkgp_N_Xg0-3" edge="1" parent="1" source="0yKiZ3iZhQsjjdrMqC6V-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="0yKiZ3iZhQsjjdrMqC6V-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bW_yQ9oQXNVkgp_N_Xg0-4" edge="1" parent="1" source="0yKiZ3iZhQsjjdrMqC6V-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=none;endFill=0;" target="0yKiZ3iZhQsjjdrMqC6V-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0yKiZ3iZhQsjjdrMqC6V-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=0;align=center;fillColor=none;" value="主控模块&lt;div&gt;stm32&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="bW_yQ9oQXNVkgp_N_Xg0-1" edge="1" parent="1" source="0yKiZ3iZhQsjjdrMqC6V-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;" target="0yKiZ3iZhQsjjdrMqC6V-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0yKiZ3iZhQsjjdrMqC6V-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=0;align=center;fillColor=none;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;STARF-GGBR7I05 四臂螺旋天线&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-80" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="0yKiZ3iZhQsjjdrMqC6V-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=0;align=center;fillColor=none;" value="太阳能板" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0yKiZ3iZhQsjjdrMqC6V-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=0;align=center;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="170" width="160" x="120" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="0yKiZ3iZhQsjjdrMqC6V-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=0;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;" value="WTRTK-960&lt;br&gt;定位模组" vertex="1">
+          <mxGeometry height="50" width="120" x="140" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="0yKiZ3iZhQsjjdrMqC6V-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=0;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;" value="IMU&lt;div&gt;惯性测量单元&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="140" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="0yKiZ3iZhQsjjdrMqC6V-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=0;align=center;strokeColor=none;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="定位模块" vertex="1">
+          <mxGeometry height="30" width="120" x="140" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="bW_yQ9oQXNVkgp_N_Xg0-2" edge="1" parent="1" source="0yKiZ3iZhQsjjdrMqC6V-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;" target="0yKiZ3iZhQsjjdrMqC6V-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0yKiZ3iZhQsjjdrMqC6V-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=0;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;" value="4G评估板" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
